@@ -1,12 +1,9 @@
-## 👋 Halo, Saya Ariel Athallah
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Hi%20I'm%20Ariel%20Athallah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;System+Designer" />
+</p>
 
 
 ## 🌐 Socials:
